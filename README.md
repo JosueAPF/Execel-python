@@ -1,5 +1,6 @@
 [![Build Status](https://img.shields.io/badge/Python-3.7-green?logo=python)]()
 [![Build Status](https://img.shields.io/badge/Lib-Openpyxl-ligthgreen?logo=python)]()
+[![Build Status](https://img.shields.io/badge/Lib-Colorama-orange?logo=python)]()
 
 # script de creacion esctitura y lectura de una hoja de EXECEl.
 
